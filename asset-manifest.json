@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e40120f.css",
-    "main.js": "/static/js/main.f08589ac.js",
+    "main.css": "/static/css/main.0b51fb11.css",
+    "main.js": "/static/js/main.090eb6af.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/Memberbanner.jpg": "/static/media/Memberbanner.f126445fa4c17529f5fe.jpg",
     "static/media/AboutUsTopBanner.jpg": "/static/media/AboutUsTopBanner.5c6def6973d7f92884a9.jpg",
@@ -9,7 +9,6 @@
     "static/media/parking1.jpg": "/static/media/parking1.d61baa1b200b00ce3804.jpg",
     "static/media/NavBanner.jpg": "/static/media/NavBanner.a6f8b3dc126519ca7635.jpg",
     "static/media/hotelPic10.jpg": "/static/media/hotelPic10.5db6288fc9b93566773b.jpg",
-    "static/media/AboutUsBanner.jpg": "/static/media/AboutUsBanner.cd4b8c11e19ab24afec0.jpg",
     "static/media/parking11.jpg": "/static/media/parking11.4648d791b747aea63f13.jpg",
     "static/media/parking13.jpg": "/static/media/parking13.cc4bd8c575c9ba82abb0.jpg",
     "static/media/hotelparking-bg.jpg": "/static/media/hotelparking-bg.5d33fbb0956f969da573.jpg",
@@ -75,8 +74,8 @@
     "static/media/listing-01.jpg": "/static/media/listing-01.519d463902a3e8284291.jpg",
     "static/media/HotelInBudget.png": "/static/media/HotelInBudget.fdad3bfb29884e590230.png",
     "static/media/c2.jpg": "/static/media/c2.884e96fcbdeb09481f80.jpg",
+    "static/media/HomeStay.png": "/static/media/HomeStay.212a525fecb18c1873cc.png",
     "static/media/listing-04.jpg": "/static/media/listing-04.cc44793bb84008123602.jpg",
-    "static/media/HomeStay.png": "/static/media/HomeStay.3fab7752a2fe89df5187.png",
     "static/media/apple.png": "/static/media/apple.4576dfa7e9360426a02d.png",
     "static/media/googlelogo.png": "/static/media/googlelogo.49eda5baf38c81b402f5.png",
     "static/media/PrimeHotel.png": "/static/media/PrimeHotel.527199a03a38aa4ae09d.png",
@@ -86,12 +85,12 @@
     "static/media/w2.png": "/static/media/w2.b9a9e277e93334defc34.png",
     "static/media/w3.png": "/static/media/w3.2719f0d50bd72ae773e5.png",
     "index.html": "/index.html",
-    "main.4e40120f.css.map": "/static/css/main.4e40120f.css.map",
-    "main.f08589ac.js.map": "/static/js/main.f08589ac.js.map",
+    "main.0b51fb11.css.map": "/static/css/main.0b51fb11.css.map",
+    "main.090eb6af.js.map": "/static/js/main.090eb6af.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e40120f.css",
-    "static/js/main.f08589ac.js"
+    "static/css/main.0b51fb11.css",
+    "static/js/main.090eb6af.js"
   ]
 }
