@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b51fb11.css",
-    "main.js": "/static/js/main.090eb6af.js",
+    "main.css": "/static/css/main.794c458e.css",
+    "main.js": "/static/js/main.688e4eb6.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/Memberbanner.jpg": "/static/media/Memberbanner.f126445fa4c17529f5fe.jpg",
     "static/media/AboutUsTopBanner.jpg": "/static/media/AboutUsTopBanner.5c6def6973d7f92884a9.jpg",
@@ -42,7 +42,6 @@
     "static/media/hotelPic2.jpg": "/static/media/hotelPic2.75eb518af1673dcd3703.jpg",
     "static/media/parking15.jpg": "/static/media/parking15.81e0224a2b2e42d7de2e.jpg",
     "static/media/hotelPic19.jpg": "/static/media/hotelPic19.51755393f48d2307d0a9.jpg",
-    "static/media/HotelioLogo.png": "/static/media/HotelioLogo.58348949dab342dcbed5.png",
     "static/media/hotelPic15.jpg": "/static/media/hotelPic15.ce7e8706a959711d7e44.jpg",
     "static/media/hotelPic6.jpg": "/static/media/hotelPic6.f2518e3204f5dc384759.jpg",
     "static/media/OfferRightImage.png": "/static/media/OfferRightImage.0fd2d5347e77fdd6713a.png",
@@ -65,6 +64,7 @@
     "static/media/listing-03.jpg": "/static/media/listing-03.14a2adbe32f295eb74d5.jpg",
     "static/media/Client.jpg": "/static/media/Client.a99be436153f7c27096f.jpg",
     "static/media/Process.png": "/static/media/Process.affdf31a69f31cf6cf77.png",
+    "static/media/HotelioLogo.png": "/static/media/HotelioLogo.8079a48b3c088ec911fa.png",
     "static/media/WeserveImage.png": "/static/media/WeserveImage.c519352de2ea19a24048.png",
     "static/media/AboutUs.png": "/static/media/AboutUs.9b41f9b11cde84692c17.png",
     "static/media/OfferLeftImage.png": "/static/media/OfferLeftImage.7327bf3c9acdba0e7557.png",
@@ -85,12 +85,12 @@
     "static/media/w2.png": "/static/media/w2.b9a9e277e93334defc34.png",
     "static/media/w3.png": "/static/media/w3.2719f0d50bd72ae773e5.png",
     "index.html": "/index.html",
-    "main.0b51fb11.css.map": "/static/css/main.0b51fb11.css.map",
-    "main.090eb6af.js.map": "/static/js/main.090eb6af.js.map",
+    "main.794c458e.css.map": "/static/css/main.794c458e.css.map",
+    "main.688e4eb6.js.map": "/static/js/main.688e4eb6.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b51fb11.css",
-    "static/js/main.090eb6af.js"
+    "static/css/main.794c458e.css",
+    "static/js/main.688e4eb6.js"
   ]
 }
