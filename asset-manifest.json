@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.53ed24de.css",
-    "main.js": "/static/js/main.1b0f5ac7.js",
+    "main.css": "/static/css/main.159973f9.css",
+    "main.js": "/static/js/main.51c9a6cb.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/Memberbanner.jpg": "/static/media/Memberbanner.f126445fa4c17529f5fe.jpg",
     "static/media/AboutUsTopBanner.jpg": "/static/media/AboutUsTopBanner.5c6def6973d7f92884a9.jpg",
@@ -14,7 +14,6 @@
     "static/media/hotelparking-bg.jpg": "/static/media/hotelparking-bg.5d33fbb0956f969da573.jpg",
     "static/media/hotelPic16.jpg": "/static/media/hotelPic16.697c94da42801102426d.jpg",
     "static/media/hotelPic23.jpg": "/static/media/hotelPic23.259393860d6192956205.jpg",
-    "static/media/FeaturedBanner.jpg": "/static/media/FeaturedBanner.d7c95d25c6d8ebbf09ea.jpg",
     "static/media/hotel-bg.png": "/static/media/hotel-bg.fdb0fca009aa398d199e.png",
     "static/media/parking14.jpg": "/static/media/parking14.2ddaf1663916e949807f.jpg",
     "static/media/parking4.jpg": "/static/media/parking4.d54568fc341304ced2a0.jpg",
@@ -44,7 +43,6 @@
     "static/media/hotelPic19.jpg": "/static/media/hotelPic19.51755393f48d2307d0a9.jpg",
     "static/media/hotelPic15.jpg": "/static/media/hotelPic15.ce7e8706a959711d7e44.jpg",
     "static/media/hotelPic6.jpg": "/static/media/hotelPic6.f2518e3204f5dc384759.jpg",
-    "static/media/OfferRightImage.png": "/static/media/OfferRightImage.0fd2d5347e77fdd6713a.png",
     "static/media/hotelPic9.jpg": "/static/media/hotelPic9.e1aa2002d32f78ca2bf0.jpg",
     "static/media/hotelPic11.jpg": "/static/media/hotelPic11.9094eacd6c587a8f0fce.jpg",
     "static/media/parking12.jpg": "/static/media/parking12.290ae73e5e6005fb4f26.jpg",
@@ -55,7 +53,6 @@
     "static/media/hotelPic25.jpg": "/static/media/hotelPic25.ae2d3cab2227c903f22c.jpg",
     "static/media/modal-bg.png": "/static/media/modal-bg.82a42dfaf7f4efd29422.png",
     "static/media/slider-bg.jpg": "/static/media/slider-bg.273a9eaefe5a1543c785.jpg",
-    "static/media/CardBackground.jpg": "/static/media/CardBackground.509fc145f6c155241a90.jpg",
     "static/media/2953962.jpg": "/static/media/2953962.7e1ca706e69ab623fec6.jpg",
     "static/media/worldMap.png": "/static/media/worldMap.f2f93bd5a177a2eb2d72.png",
     "static/media/MemberDeal.png": "/static/media/MemberDeal.8834adaa57f973e91bb2.png",
@@ -68,7 +65,6 @@
     "static/media/HotelioLogo.png": "/static/media/HotelioLogo.8079a48b3c088ec911fa.png",
     "static/media/WeserveImage.png": "/static/media/WeserveImage.c519352de2ea19a24048.png",
     "static/media/AboutUs.png": "/static/media/AboutUs.9b41f9b11cde84692c17.png",
-    "static/media/OfferLeftImage.png": "/static/media/OfferLeftImage.7327bf3c9acdba0e7557.png",
     "static/media/user.png": "/static/media/user.943f5423dcca9f37ab58.png",
     "static/media/DecorImage.png": "/static/media/DecorImage.48f4e29c1669b137b9bb.png",
     "static/media/listing-02.jpg": "/static/media/listing-02.30f0af16f628a7c8bfdf.jpg",
@@ -86,12 +82,12 @@
     "static/media/w2.png": "/static/media/w2.b9a9e277e93334defc34.png",
     "static/media/w3.png": "/static/media/w3.2719f0d50bd72ae773e5.png",
     "index.html": "/index.html",
-    "main.53ed24de.css.map": "/static/css/main.53ed24de.css.map",
-    "main.1b0f5ac7.js.map": "/static/js/main.1b0f5ac7.js.map",
+    "main.159973f9.css.map": "/static/css/main.159973f9.css.map",
+    "main.51c9a6cb.js.map": "/static/js/main.51c9a6cb.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53ed24de.css",
-    "static/js/main.1b0f5ac7.js"
+    "static/css/main.159973f9.css",
+    "static/js/main.51c9a6cb.js"
   ]
 }
