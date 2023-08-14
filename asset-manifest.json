@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.159973f9.css",
-    "main.js": "/static/js/main.ed7e6678.js",
+    "main.css": "/static/css/main.1c0a5ac5.css",
+    "main.js": "/static/js/main.f9edc5c4.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
-    "static/media/Memberbanner.jpg": "/static/media/Memberbanner.f126445fa4c17529f5fe.jpg",
     "static/media/AboutUsTopBanner.jpg": "/static/media/AboutUsTopBanner.5c6def6973d7f92884a9.jpg",
     "static/media/BusinessCoverImg.jpg": "/static/media/BusinessCoverImg.4a73b79f3e3fe09ef152.jpg",
     "static/media/NavBanner.jpg": "/static/media/NavBanner.a6f8b3dc126519ca7635.jpg",
@@ -15,6 +14,7 @@
     "static/media/hotelPic16.jpg": "/static/media/hotelPic16.697c94da42801102426d.jpg",
     "static/media/hotel-bg.png": "/static/media/hotel-bg.fdb0fca009aa398d199e.png",
     "static/media/parking14.jpg": "/static/media/parking14.2ddaf1663916e949807f.jpg",
+    "static/media/Memberbanner.jpg": "/static/media/Memberbanner.78827485c0a9923e5238.jpg",
     "static/media/parking4.jpg": "/static/media/parking4.d54568fc341304ced2a0.jpg",
     "static/media/hotelPic18.jpg": "/static/media/hotelPic18.ebdcbd1e0b239b5e4ac1.jpg",
     "static/media/parking16.jpg": "/static/media/parking16.bfbc54febd17fb7ca93e.jpg",
@@ -47,10 +47,10 @@
     "static/media/hotelPic11.jpg": "/static/media/hotelPic11.9094eacd6c587a8f0fce.jpg",
     "static/media/parking12.jpg": "/static/media/parking12.290ae73e5e6005fb4f26.jpg",
     "static/media/DecoreImageS.jpg": "/static/media/DecoreImageS.2bdd8b0ec124bfefd5cc.jpg",
-    "static/media/MemberBannerS.jpg": "/static/media/MemberBannerS.836e2b1c5c3dc68b5187.jpg",
     "static/media/HotelListBack.jpg": "/static/media/HotelListBack.256cbfcd2c2f1804b110.jpg",
     "static/media/parking6.jpg": "/static/media/parking6.33c37b8d282c2c571608.jpg",
     "static/media/hotelPic25.jpg": "/static/media/hotelPic25.8b1b2bb01c5281746a87.jpg",
+    "static/media/MemberBannerS.jpg": "/static/media/MemberBannerS.f6a208528d0c6264d56b.jpg",
     "static/media/modal-bg.png": "/static/media/modal-bg.82a42dfaf7f4efd29422.png",
     "static/media/slider-bg.jpg": "/static/media/slider-bg.273a9eaefe5a1543c785.jpg",
     "static/media/2953962.jpg": "/static/media/2953962.7e1ca706e69ab623fec6.jpg",
@@ -80,14 +80,15 @@
     "static/media/bgrmvblk.png": "/static/media/bgrmvblk.cbb1d15e9d859daa1765.png",
     "static/media/w1.png": "/static/media/w1.6ee2949b2104d7b10c57.png",
     "static/media/w2.png": "/static/media/w2.b9a9e277e93334defc34.png",
+    "static/media/LocationIcon.png": "/static/media/LocationIcon.c8c6596181b61abd8c5d.png",
     "static/media/w3.png": "/static/media/w3.2719f0d50bd72ae773e5.png",
     "index.html": "/index.html",
-    "main.159973f9.css.map": "/static/css/main.159973f9.css.map",
-    "main.ed7e6678.js.map": "/static/js/main.ed7e6678.js.map",
+    "main.1c0a5ac5.css.map": "/static/css/main.1c0a5ac5.css.map",
+    "main.f9edc5c4.js.map": "/static/js/main.f9edc5c4.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.159973f9.css",
-    "static/js/main.ed7e6678.js"
+    "static/css/main.1c0a5ac5.css",
+    "static/js/main.f9edc5c4.js"
   ]
 }
