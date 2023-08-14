@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1c0a5ac5.css",
-    "main.js": "/static/js/main.f9edc5c4.js",
+    "main.js": "/static/js/main.1b1e5169.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
-    "static/media/AboutUsTopBanner.jpg": "/static/media/AboutUsTopBanner.5c6def6973d7f92884a9.jpg",
     "static/media/BusinessCoverImg.jpg": "/static/media/BusinessCoverImg.4a73b79f3e3fe09ef152.jpg",
     "static/media/NavBanner.jpg": "/static/media/NavBanner.a6f8b3dc126519ca7635.jpg",
     "static/media/parking1.jpg": "/static/media/parking1.dbab8f208b43dae361cf.jpg",
@@ -12,7 +11,6 @@
     "static/media/parking13.jpg": "/static/media/parking13.cc4bd8c575c9ba82abb0.jpg",
     "static/media/hotelparking-bg.jpg": "/static/media/hotelparking-bg.5d33fbb0956f969da573.jpg",
     "static/media/hotelPic16.jpg": "/static/media/hotelPic16.697c94da42801102426d.jpg",
-    "static/media/hotel-bg.png": "/static/media/hotel-bg.fdb0fca009aa398d199e.png",
     "static/media/parking14.jpg": "/static/media/parking14.2ddaf1663916e949807f.jpg",
     "static/media/Memberbanner.jpg": "/static/media/Memberbanner.78827485c0a9923e5238.jpg",
     "static/media/parking4.jpg": "/static/media/parking4.d54568fc341304ced2a0.jpg",
@@ -24,6 +22,7 @@
     "static/media/hotelPic21.jpg": "/static/media/hotelPic21.4f5a5864c3eee746ad1f.jpg",
     "static/media/parking7.jpg": "/static/media/parking7.3c8f2410cc379fd3396a.jpg",
     "static/media/hotelPic5.jpg": "/static/media/hotelPic5.aee26c1fa487ce7bf8b5.jpg",
+    "static/media/AboutUsTopBanner.jpg": "/static/media/AboutUsTopBanner.41d49cae72e6bca88e85.jpg",
     "static/media/parking9.jpg": "/static/media/parking9.967b5c0a312374a9ec7b.jpg",
     "static/media/parking5.jpg": "/static/media/parking5.c86f5a09036bb31303eb.jpg",
     "static/media/parking-bg.jpg": "/static/media/parking-bg.9743cc834eceb3782f54.jpg",
@@ -36,6 +35,7 @@
     "static/media/hotelPic7.jpg": "/static/media/hotelPic7.f214e8503f9b4650c06b.jpg",
     "static/media/parking10.jpg": "/static/media/parking10.3bc742cb2663b94848d8.jpg",
     "static/media/parking15.jpg": "/static/media/parking15.81e0224a2b2e42d7de2e.jpg",
+    "static/media/hotel-bg.png": "/static/media/hotel-bg.2bc1b8cdce7a8f3c83d3.png",
     "static/media/hotelPic2.jpg": "/static/media/hotelPic2.bd89cd6e49ea29edb366.jpg",
     "static/media/hotelPic19.jpg": "/static/media/hotelPic19.51755393f48d2307d0a9.jpg",
     "static/media/hotelPic15.jpg": "/static/media/hotelPic15.ce7e8706a959711d7e44.jpg",
@@ -84,11 +84,11 @@
     "static/media/w3.png": "/static/media/w3.2719f0d50bd72ae773e5.png",
     "index.html": "/index.html",
     "main.1c0a5ac5.css.map": "/static/css/main.1c0a5ac5.css.map",
-    "main.f9edc5c4.js.map": "/static/js/main.f9edc5c4.js.map",
+    "main.1b1e5169.js.map": "/static/js/main.1b1e5169.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c0a5ac5.css",
-    "static/js/main.f9edc5c4.js"
+    "static/js/main.1b1e5169.js"
   ]
 }
