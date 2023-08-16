@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.88c6abe1.css",
-    "main.js": "/static/js/main.2466f082.js",
+    "main.css": "/static/css/main.ddccab82.css",
+    "main.js": "/static/js/main.7252230e.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/BusinessCoverImg.jpg": "/static/media/BusinessCoverImg.4a73b79f3e3fe09ef152.jpg",
     "static/media/parking1.jpg": "/static/media/parking1.dbab8f208b43dae361cf.jpg",
@@ -53,12 +53,17 @@
     "static/media/DecoreImageS.jpg": "/static/media/DecoreImageS.292abe70e31b20f1fa08.jpg",
     "static/media/worldMap.png": "/static/media/worldMap.f2f93bd5a177a2eb2d72.png",
     "static/media/MemberDeal.png": "/static/media/MemberDeal.8834adaa57f973e91bb2.png",
+    "static/media/AllcitiesIcon.jpg": "/static/media/AllcitiesIcon.1971003422d421087c70.jpg",
+    "static/media/GurgaonIcon.jpg": "/static/media/GurgaonIcon.a08ce9676064664d5cc5.jpg",
     "static/media/AboutUsBanner.png": "/static/media/AboutUsBanner.a1d9b0a9b3f04fbcd506.png",
     "static/media/listing-03.jpg": "/static/media/listing-03.14a2adbe32f295eb74d5.jpg",
     "static/media/Client.jpg": "/static/media/Client.1e71f1440499bfefcb0a.jpg",
+    "static/media/ChennaiIcon.jpg": "/static/media/ChennaiIcon.c2dce9afb79dcff49728.jpg",
     "static/media/Process.png": "/static/media/Process.affdf31a69f31cf6cf77.png",
     "static/media/HotelioLogo.png": "/static/media/HotelioLogo.8079a48b3c088ec911fa.png",
+    "static/media/DelhiIcon.webp": "/static/media/DelhiIcon.03da90cf2a809cbd1ad1.webp",
     "static/media/WeserveImage.png": "/static/media/WeserveImage.c519352de2ea19a24048.png",
+    "static/media/BangloreIcon.jpeg": "/static/media/BangloreIcon.e1090826077aeca6e818.jpeg",
     "static/media/AboutUs.png": "/static/media/AboutUs.9b41f9b11cde84692c17.png",
     "static/media/user.png": "/static/media/user.943f5423dcca9f37ab58.png",
     "static/media/listing-02.jpg": "/static/media/listing-02.30f0af16f628a7c8bfdf.jpg",
@@ -70,14 +75,14 @@
     "static/media/googlelogo.png": "/static/media/googlelogo.49eda5baf38c81b402f5.png",
     "static/media/PrimeHotel.png": "/static/media/PrimeHotel.527199a03a38aa4ae09d.png",
     "static/media/DecorImage.png": "/static/media/DecorImage.a6c0e7ce5fff745aaffb.png",
-    "static/media/LocationIcon.png": "/static/media/LocationIcon.c8c6596181b61abd8c5d.png",
+    "static/media/LocationIcon.png": "/static/media/LocationIcon.f1bf0fa4209f603e1ecc.png",
     "index.html": "/index.html",
-    "main.88c6abe1.css.map": "/static/css/main.88c6abe1.css.map",
-    "main.2466f082.js.map": "/static/js/main.2466f082.js.map",
+    "main.ddccab82.css.map": "/static/css/main.ddccab82.css.map",
+    "main.7252230e.js.map": "/static/js/main.7252230e.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88c6abe1.css",
-    "static/js/main.2466f082.js"
+    "static/css/main.ddccab82.css",
+    "static/js/main.7252230e.js"
   ]
 }
