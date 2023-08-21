@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1aeb2c7b.css",
-    "main.js": "/static/js/main.314afe92.js",
+    "main.css": "/static/css/main.dd1a8dfc.css",
+    "main.js": "/static/js/main.d8bbc9e5.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/BusinessCoverImg.jpg": "/static/media/BusinessCoverImg.4a73b79f3e3fe09ef152.jpg",
     "static/media/parking1.jpg": "/static/media/parking1.dbab8f208b43dae361cf.jpg",
@@ -53,7 +53,9 @@
     "static/media/KolkataIcon.jpg": "/static/media/KolkataIcon.4c2403813c0134d56b76.jpg",
     "static/media/MumbaiIcon.jpg": "/static/media/MumbaiIcon.9fc8c41b4a396907330e.jpg",
     "static/media/2953962.jpg": "/static/media/2953962.7e1ca706e69ab623fec6.jpg",
+    "static/media/HomeStayTwo.png": "/static/media/HomeStayTwo.ec6c64e8c9c4a4add710.png",
     "static/media/DecoreImageS.jpg": "/static/media/DecoreImageS.292abe70e31b20f1fa08.jpg",
+    "static/media/PrimeHotelTwo.png": "/static/media/PrimeHotelTwo.6629a47255c26d7f58ee.png",
     "static/media/NoidaIcon.jpg": "/static/media/NoidaIcon.a949a2081111ede30785.jpg",
     "static/media/worldMap.png": "/static/media/worldMap.f2f93bd5a177a2eb2d72.png",
     "static/media/MemberDeal.png": "/static/media/MemberDeal.8834adaa57f973e91bb2.png",
@@ -71,7 +73,9 @@
     "static/media/AboutUs.png": "/static/media/AboutUs.9b41f9b11cde84692c17.png",
     "static/media/user.png": "/static/media/user.943f5423dcca9f37ab58.png",
     "static/media/listing-02.jpg": "/static/media/listing-02.30f0af16f628a7c8bfdf.jpg",
+    "static/media/HotelInBudgetTwo.png": "/static/media/HotelInBudgetTwo.e4d845543254ee84be38.png",
     "static/media/listing-01.jpg": "/static/media/listing-01.519d463902a3e8284291.jpg",
+    "static/media/ContactImage.png": "/static/media/ContactImage.303046e98ef6de61ec6b.png",
     "static/media/HotelInBudget.png": "/static/media/HotelInBudget.fdad3bfb29884e590230.png",
     "static/media/HomeStay.png": "/static/media/HomeStay.212a525fecb18c1873cc.png",
     "static/media/listing-04.jpg": "/static/media/listing-04.cc44793bb84008123602.jpg",
@@ -81,12 +85,12 @@
     "static/media/DecorImage.png": "/static/media/DecorImage.a6c0e7ce5fff745aaffb.png",
     "static/media/LocationIcon.png": "/static/media/LocationIcon.f1bf0fa4209f603e1ecc.png",
     "index.html": "/index.html",
-    "main.1aeb2c7b.css.map": "/static/css/main.1aeb2c7b.css.map",
-    "main.314afe92.js.map": "/static/js/main.314afe92.js.map",
+    "main.dd1a8dfc.css.map": "/static/css/main.dd1a8dfc.css.map",
+    "main.d8bbc9e5.js.map": "/static/js/main.d8bbc9e5.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aeb2c7b.css",
-    "static/js/main.314afe92.js"
+    "static/css/main.dd1a8dfc.css",
+    "static/js/main.d8bbc9e5.js"
   ]
 }
