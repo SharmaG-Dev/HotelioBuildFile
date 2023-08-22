@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd1a8dfc.css",
-    "main.js": "/static/js/main.d8bbc9e5.js",
+    "main.css": "/static/css/main.ff385a55.css",
+    "main.js": "/static/js/main.537ef7eb.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/BusinessCoverImg.jpg": "/static/media/BusinessCoverImg.4a73b79f3e3fe09ef152.jpg",
     "static/media/parking1.jpg": "/static/media/parking1.dbab8f208b43dae361cf.jpg",
@@ -80,17 +80,16 @@
     "static/media/HomeStay.png": "/static/media/HomeStay.212a525fecb18c1873cc.png",
     "static/media/listing-04.jpg": "/static/media/listing-04.cc44793bb84008123602.jpg",
     "static/media/apple.png": "/static/media/apple.4576dfa7e9360426a02d.png",
-    "static/media/googlelogo.png": "/static/media/googlelogo.49eda5baf38c81b402f5.png",
     "static/media/PrimeHotel.png": "/static/media/PrimeHotel.527199a03a38aa4ae09d.png",
     "static/media/DecorImage.png": "/static/media/DecorImage.a6c0e7ce5fff745aaffb.png",
     "static/media/LocationIcon.png": "/static/media/LocationIcon.f1bf0fa4209f603e1ecc.png",
     "index.html": "/index.html",
-    "main.dd1a8dfc.css.map": "/static/css/main.dd1a8dfc.css.map",
-    "main.d8bbc9e5.js.map": "/static/js/main.d8bbc9e5.js.map",
+    "main.ff385a55.css.map": "/static/css/main.ff385a55.css.map",
+    "main.537ef7eb.js.map": "/static/js/main.537ef7eb.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd1a8dfc.css",
-    "static/js/main.d8bbc9e5.js"
+    "static/css/main.ff385a55.css",
+    "static/js/main.537ef7eb.js"
   ]
 }
