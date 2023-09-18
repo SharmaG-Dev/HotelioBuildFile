@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a41fcdb2.css",
-    "main.js": "/static/js/main.526896a8.js",
+    "main.css": "/static/css/main.41c906ff.css",
+    "main.js": "/static/js/main.5ac67c3a.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/BusinessCoverImg.jpg": "/static/media/BusinessCoverImg.4a73b79f3e3fe09ef152.jpg",
     "static/media/parking1.jpg": "/static/media/parking1.dbab8f208b43dae361cf.jpg",
@@ -51,15 +51,14 @@
     "static/media/modal-bg.png": "/static/media/modal-bg.82a42dfaf7f4efd29422.png",
     "static/media/reasonsImage.jpg": "/static/media/reasonsImage.87067018b33f66ff5126.jpg",
     "static/media/KolkataIcon.jpg": "/static/media/KolkataIcon.4c2403813c0134d56b76.jpg",
+    "static/media/BusinessImageFirst.jpg": "/static/media/BusinessImageFirst.f16c07be48e9424efb9d.jpg",
     "static/media/MumbaiIcon.jpg": "/static/media/MumbaiIcon.9fc8c41b4a396907330e.jpg",
     "static/media/HomeStayTwo.png": "/static/media/HomeStayTwo.ec6c64e8c9c4a4add710.png",
-    "static/media/MainBannerMob.jpg": "/static/media/MainBannerMob.935f3d42b609f06b83dc.jpg",
     "static/media/DecoreImageS.jpg": "/static/media/DecoreImageS.292abe70e31b20f1fa08.jpg",
     "static/media/PrimeHotelTwo.png": "/static/media/PrimeHotelTwo.6629a47255c26d7f58ee.png",
     "static/media/OrderSucessfully.gif": "/static/media/OrderSucessfully.de2d3a3bc739f1762190.gif",
     "static/media/NoidaIcon.jpg": "/static/media/NoidaIcon.a949a2081111ede30785.jpg",
     "static/media/worldMap.png": "/static/media/worldMap.f2f93bd5a177a2eb2d72.png",
-    "static/media/MemberDeal.png": "/static/media/MemberDeal.8834adaa57f973e91bb2.png",
     "static/media/FourZeroFour.jpg": "/static/media/FourZeroFour.957570d28001904ced3d.jpg",
     "static/media/GurgaonIcon.jpg": "/static/media/GurgaonIcon.a08ce9676064664d5cc5.jpg",
     "static/media/HyderabadIcon.jpg": "/static/media/HyderabadIcon.14b7b017d9cf36afdc90.jpg",
@@ -68,6 +67,8 @@
     "static/media/ChennaiIcon.jpg": "/static/media/ChennaiIcon.c2dce9afb79dcff49728.jpg",
     "static/media/ForgotImg.jpg": "/static/media/ForgotImg.426cc6b7e3065c6b9f47.jpg",
     "static/media/Process.png": "/static/media/Process.affdf31a69f31cf6cf77.png",
+    "static/media/FaQ.png": "/static/media/FaQ.f46db88d236b4636a3f9.png",
+    "static/media/MainBannerMob.jpg": "/static/media/MainBannerMob.5984dffbe573050727ad.jpg",
     "static/media/HotelioLogo.png": "/static/media/HotelioLogo.8079a48b3c088ec911fa.png",
     "static/media/DelhiIcon.webp": "/static/media/DelhiIcon.03da90cf2a809cbd1ad1.webp",
     "static/media/WeserveImage.png": "/static/media/WeserveImage.c519352de2ea19a24048.png",
@@ -82,14 +83,15 @@
     "static/media/DecorImage.png": "/static/media/DecorImage.a6c0e7ce5fff745aaffb.png",
     "static/media/LocationIcon.png": "/static/media/LocationIcon.f1bf0fa4209f603e1ecc.png",
     "static/media/Welcome.png": "/static/media/Welcome.1ce983caa12a0429b8d1.png",
+    "static/media/OrderFailed.svg": "/static/media/OrderFailed.4a134a70095ac32c54094057345af576.svg",
     "static/media/Completed.svg": "/static/media/Completed.a1fe530c5a1cd17d05976c9b8dfbfb31.svg",
     "index.html": "/index.html",
-    "main.a41fcdb2.css.map": "/static/css/main.a41fcdb2.css.map",
-    "main.526896a8.js.map": "/static/js/main.526896a8.js.map",
+    "main.41c906ff.css.map": "/static/css/main.41c906ff.css.map",
+    "main.5ac67c3a.js.map": "/static/js/main.5ac67c3a.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a41fcdb2.css",
-    "static/js/main.526896a8.js"
+    "static/css/main.41c906ff.css",
+    "static/js/main.5ac67c3a.js"
   ]
 }
