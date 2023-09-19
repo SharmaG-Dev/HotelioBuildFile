@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ec489b53.css",
-    "main.js": "/static/js/main.7e1b29e3.js",
+    "main.js": "/static/js/main.56f93a9a.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/BusinessCoverImg.jpg": "/static/media/BusinessCoverImg.4a73b79f3e3fe09ef152.jpg",
     "static/media/parking1.jpg": "/static/media/parking1.dbab8f208b43dae361cf.jpg",
@@ -74,6 +74,7 @@
     "static/media/WeserveImage.png": "/static/media/WeserveImage.c519352de2ea19a24048.png",
     "static/media/BangloreIcon.jpeg": "/static/media/BangloreIcon.e1090826077aeca6e818.jpeg",
     "static/media/AboutUs.png": "/static/media/AboutUs.9b41f9b11cde84692c17.png",
+    "static/media/MobileBackground.jpg": "/static/media/MobileBackground.c5e6c2ce91de01c181c3.jpg",
     "static/media/HotelInBudgetTwo.png": "/static/media/HotelInBudgetTwo.e4d845543254ee84be38.png",
     "static/media/ContactImage.png": "/static/media/ContactImage.303046e98ef6de61ec6b.png",
     "static/media/HotelInBudget.png": "/static/media/HotelInBudget.fdad3bfb29884e590230.png",
@@ -87,11 +88,11 @@
     "static/media/Completed.svg": "/static/media/Completed.a1fe530c5a1cd17d05976c9b8dfbfb31.svg",
     "index.html": "/index.html",
     "main.ec489b53.css.map": "/static/css/main.ec489b53.css.map",
-    "main.7e1b29e3.js.map": "/static/js/main.7e1b29e3.js.map",
+    "main.56f93a9a.js.map": "/static/js/main.56f93a9a.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec489b53.css",
-    "static/js/main.7e1b29e3.js"
+    "static/js/main.56f93a9a.js"
   ]
 }
