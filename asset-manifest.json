@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.20d37f70.css",
-    "main.js": "/static/js/main.718528ad.js",
+    "main.js": "/static/js/main.22ad530d.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/BusinessCoverImg.jpg": "/static/media/BusinessCoverImg.4a73b79f3e3fe09ef152.jpg",
     "static/media/LoginMoto.jpg": "/static/media/LoginMoto.d186cde1faae662879bd.jpg",
@@ -61,11 +61,11 @@
     "index.html": "/index.html",
     "static/media/Completed.svg": "/static/media/Completed.a1fe530c5a1cd17d05976c9b8dfbfb31.svg",
     "main.20d37f70.css.map": "/static/css/main.20d37f70.css.map",
-    "main.718528ad.js.map": "/static/js/main.718528ad.js.map",
+    "main.22ad530d.js.map": "/static/js/main.22ad530d.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20d37f70.css",
-    "static/js/main.718528ad.js"
+    "static/js/main.22ad530d.js"
   ]
 }
