@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a38319f.css",
-    "main.js": "/static/js/main.2a578d0e.js",
+    "main.css": "/static/css/main.578ede80.css",
+    "main.js": "/static/js/main.f4d0381e.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/reasonsImage.jpg": "/static/media/reasonsImage.9f6cdfb4b3c7e2ad9332.jpg",
     "static/media/Reception.jpg": "/static/media/Reception.371c64c3a2a12f26edc0.jpg",
     "static/media/BusinessCoverImg.jpg": "/static/media/BusinessCoverImg.4a73b79f3e3fe09ef152.jpg",
     "static/media/Memberbanner.jpg": "/static/media/Memberbanner.78827485c0a9923e5238.jpg",
+    "static/media/AboutUsTopBanner.webp": "/static/media/AboutUsTopBanner.5a9916fbc6dcdbc1e2d9.webp",
     "static/media/hotelPic21.jpg": "/static/media/hotelPic21.4f5a5864c3eee746ad1f.jpg",
-    "static/media/AboutUsTopBanner.jpg": "/static/media/AboutUsTopBanner.41d49cae72e6bca88e85.jpg",
     "static/media/hotelPic23.jpg": "/static/media/hotelPic23.680c227c065dbb6f95be.jpg",
     "static/media/hotelPic3.jpg": "/static/media/hotelPic3.56fa71da8102ce152ea3.jpg",
     "static/media/hotelPic7.jpg": "/static/media/hotelPic7.f214e8503f9b4650c06b.jpg",
@@ -57,6 +57,7 @@
     "static/media/AboutUs.webp": "/static/media/AboutUs.d10ab09dc65452d7c894.webp",
     "static/media/HotelInBudget.png": "/static/media/HotelInBudget.fdad3bfb29884e590230.png",
     "static/media/HomeStay.png": "/static/media/HomeStay.212a525fecb18c1873cc.png",
+    "static/media/TestimonialBack.webp": "/static/media/TestimonialBack.f27e4a73d72d53fafef1.webp",
     "static/media/apple.png": "/static/media/apple.4576dfa7e9360426a02d.png",
     "static/media/PrimeHotel.png": "/static/media/PrimeHotel.527199a03a38aa4ae09d.png",
     "static/media/DecorImage.png": "/static/media/DecorImage.a6c0e7ce5fff745aaffb.png",
@@ -69,12 +70,12 @@
     "index.html": "/index.html",
     "static/media/Completed.svg": "/static/media/Completed.a1fe530c5a1cd17d05976c9b8dfbfb31.svg",
     "static/media/VISALogo.webp": "/static/media/VISALogo.f7f66bc863e631c5fd2d.webp",
-    "main.1a38319f.css.map": "/static/css/main.1a38319f.css.map",
-    "main.2a578d0e.js.map": "/static/js/main.2a578d0e.js.map",
+    "main.578ede80.css.map": "/static/css/main.578ede80.css.map",
+    "main.f4d0381e.js.map": "/static/js/main.f4d0381e.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a38319f.css",
-    "static/js/main.2a578d0e.js"
+    "static/css/main.578ede80.css",
+    "static/js/main.f4d0381e.js"
   ]
 }
