@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.148024f5.css",
-    "main.js": "/static/js/main.f6d2de0e.js",
+    "main.js": "/static/js/main.feb24f04.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/reasonsImage.jpg": "/static/media/reasonsImage.9f6cdfb4b3c7e2ad9332.jpg",
     "static/media/Reception.jpg": "/static/media/Reception.371c64c3a2a12f26edc0.jpg",
@@ -9,6 +9,7 @@
     "static/media/Memberbanner.jpg": "/static/media/Memberbanner.78827485c0a9923e5238.jpg",
     "static/media/AboutUsTopBanner.webp": "/static/media/AboutUsTopBanner.5a9916fbc6dcdbc1e2d9.webp",
     "static/media/hotelPic21.jpg": "/static/media/hotelPic21.4f5a5864c3eee746ad1f.jpg",
+    "static/media/BusinessImageFirst.webp": "/static/media/BusinessImageFirst.e6893d4cd4500f5ad04b.webp",
     "static/media/hotelPic23.jpg": "/static/media/hotelPic23.680c227c065dbb6f95be.jpg",
     "static/media/hotelPic3.jpg": "/static/media/hotelPic3.56fa71da8102ce152ea3.jpg",
     "static/media/hotelPic7.jpg": "/static/media/hotelPic7.f214e8503f9b4650c06b.jpg",
@@ -27,7 +28,6 @@
     "static/media/KolkataIcon.jpg": "/static/media/KolkataIcon.4c2403813c0134d56b76.jpg",
     "static/media/hotel-bg.webp": "/static/media/hotel-bg.65bad868f6b47e1f840d.webp",
     "static/media/MumbaiIcon.jpg": "/static/media/MumbaiIcon.9fc8c41b4a396907330e.jpg",
-    "static/media/BusinessImageFirst.jpg": "/static/media/BusinessImageFirst.b53d8fd9f1c47c2162ed.jpg",
     "static/media/HomeStayTwo.webp": "/static/media/HomeStayTwo.d50299e2529ecae3c554.webp",
     "static/media/DecoreImageS.jpg": "/static/media/DecoreImageS.292abe70e31b20f1fa08.jpg",
     "static/media/OrderSucessfully.gif": "/static/media/OrderSucessfully.de2d3a3bc739f1762190.gif",
@@ -71,11 +71,11 @@
     "static/media/Completed.svg": "/static/media/Completed.a1fe530c5a1cd17d05976c9b8dfbfb31.svg",
     "static/media/VISALogo.webp": "/static/media/VISALogo.f7f66bc863e631c5fd2d.webp",
     "main.148024f5.css.map": "/static/css/main.148024f5.css.map",
-    "main.f6d2de0e.js.map": "/static/js/main.f6d2de0e.js.map",
+    "main.feb24f04.js.map": "/static/js/main.feb24f04.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.148024f5.css",
-    "static/js/main.f6d2de0e.js"
+    "static/js/main.feb24f04.js"
   ]
 }
