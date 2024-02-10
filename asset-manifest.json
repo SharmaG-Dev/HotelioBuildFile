@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.74efeed6.css",
-    "main.js": "/static/js/main.5cd24aab.js",
+    "main.css": "/static/css/main.517db994.css",
+    "main.js": "/static/js/main.4aa73916.js",
     "static/js/787.072b74f0.chunk.js": "/static/js/787.072b74f0.chunk.js",
     "static/media/reasonsImage.jpg": "/static/media/reasonsImage.9f6cdfb4b3c7e2ad9332.jpg",
     "static/media/Reception.jpg": "/static/media/Reception.371c64c3a2a12f26edc0.jpg",
@@ -10,7 +10,6 @@
     "static/media/RefundPolicy.jpg": "/static/media/RefundPolicy.05efd1854aef9890367d.jpg",
     "static/media/AboutUsTopBanner.webp": "/static/media/AboutUsTopBanner.5a9916fbc6dcdbc1e2d9.webp",
     "static/media/hotelPic21.jpg": "/static/media/hotelPic21.4f5a5864c3eee746ad1f.jpg",
-    "static/media/BusinessImageFirst.webp": "/static/media/BusinessImageFirst.e6893d4cd4500f5ad04b.webp",
     "static/media/hotelPic23.jpg": "/static/media/hotelPic23.680c227c065dbb6f95be.jpg",
     "static/media/hotelPic3.jpg": "/static/media/hotelPic3.56fa71da8102ce152ea3.jpg",
     "static/media/hotelPic7.jpg": "/static/media/hotelPic7.f214e8503f9b4650c06b.jpg",
@@ -40,7 +39,6 @@
     "static/media/GurgaonIcon.jpg": "/static/media/GurgaonIcon.a08ce9676064664d5cc5.jpg",
     "static/media/HyderabadIcon.jpg": "/static/media/HyderabadIcon.14b7b017d9cf36afdc90.jpg",
     "static/media/AllcitiesIcon.jpg": "/static/media/AllcitiesIcon.486ee0831e26b778cc86.jpg",
-    "static/media/AboutUsBanner.png": "/static/media/AboutUsBanner.a1d9b0a9b3f04fbcd506.png",
     "static/media/FaQ.png": "/static/media/FaQ.f9641f5044aa73858eea.png",
     "static/media/Client.jpg": "/static/media/Client.1e71f1440499bfefcb0a.jpg",
     "static/media/ChennaiIcon.jpg": "/static/media/ChennaiIcon.c2dce9afb79dcff49728.jpg",
@@ -58,11 +56,8 @@
     "static/media/AboutUs.webp": "/static/media/AboutUs.d10ab09dc65452d7c894.webp",
     "static/media/PaymentFailed.jpg": "/static/media/PaymentFailed.02e63985403f1aef5667.jpg",
     "static/media/PaymentDone.jpg": "/static/media/PaymentDone.25ca4e6d8df7bd138f16.jpg",
-    "static/media/HotelInBudget.png": "/static/media/HotelInBudget.fdad3bfb29884e590230.png",
-    "static/media/HomeStay.png": "/static/media/HomeStay.212a525fecb18c1873cc.png",
     "static/media/TestimonialBack.webp": "/static/media/TestimonialBack.f27e4a73d72d53fafef1.webp",
     "static/media/apple.png": "/static/media/apple.4576dfa7e9360426a02d.png",
-    "static/media/PrimeHotel.png": "/static/media/PrimeHotel.527199a03a38aa4ae09d.png",
     "static/media/DecorImage.png": "/static/media/DecorImage.a6c0e7ce5fff745aaffb.png",
     "static/media/LocationIcon.png": "/static/media/LocationIcon.f1bf0fa4209f603e1ecc.png",
     "static/media/Welcome.png": "/static/media/Welcome.1ce983caa12a0429b8d1.png",
@@ -72,12 +67,12 @@
     "index.html": "/index.html",
     "static/media/RUPAYLogo.webp": "/static/media/RUPAYLogo.a4f4aa5c767934177822.webp",
     "static/media/VISALogo.webp": "/static/media/VISALogo.f7f66bc863e631c5fd2d.webp",
-    "main.74efeed6.css.map": "/static/css/main.74efeed6.css.map",
-    "main.5cd24aab.js.map": "/static/js/main.5cd24aab.js.map",
+    "main.517db994.css.map": "/static/css/main.517db994.css.map",
+    "main.4aa73916.js.map": "/static/js/main.4aa73916.js.map",
     "787.072b74f0.chunk.js.map": "/static/js/787.072b74f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74efeed6.css",
-    "static/js/main.5cd24aab.js"
+    "static/css/main.517db994.css",
+    "static/js/main.4aa73916.js"
   ]
 }
